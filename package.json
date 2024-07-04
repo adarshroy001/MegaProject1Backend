@@ -1,0 +1,16 @@
+{
+  "name": "myyoutube",
+  "version": "1.0.0",
+  "description": "It is the mega project made by Adarsh Directed by Hitesh sir on Chai and Code youtube channel ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chai",
+    "javascript",
+    "backend"
+  ],
+  "author": "Adarsh Roy",
+  "license": "ISC"
+}
